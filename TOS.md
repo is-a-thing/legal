@@ -8,7 +8,7 @@ This document applies to the following provided services:
   - Any community officially owned by is-a-th.ing
 
 > [!IMPORTANT]
-> By using any of the servies listed above, you agree to follow this document.
+> By using any of the servies listed above, you agree to follow the most up-to-date version of this document.
 
 # Your responsibilities
   - Follow the [Code of Conduct](https://github.com/is-a-thing/legal/blob/main/COC.md) on communities officially owned by is-a-th.ing
@@ -18,5 +18,9 @@ This document applies to the following provided services:
   - If you break these rules, you can be removed from communities, and have your subdomains removed without notice.
 # Our rights
   - We can suspend any subdomain that we feel does not follow our rules
+  - We have the right to discontinue or modify the way we provide our service at any point
+
+# Changes
+We can change these terms at any time. The most recent version of this document is the one that you are required to follow, and any previous versions become void when an update is made. To get automatic updates to this document and other legal documents, you can follow the [legal](https://github.com/is-a-thing/legal) github respository.
 
 [^1]: You are responsible for regulating UGC (User generated content) on your site.
