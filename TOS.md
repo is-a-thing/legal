@@ -23,4 +23,7 @@ This document applies to the following provided services:
 # Changes
 We can change these terms at any time. The most recent version of this document is the one that you are required to follow, and any previous versions become void when an update is made. To get automatic updates to this document and other legal documents, you can follow the [legal](https://github.com/is-a-thing/legal) github respository.
 
+
+For any contact regarding the TOS, you may contact us via the [is-a-th.ing discord](https://is-a-th.ing/discord)
+
 [^1]: You are responsible for regulating UGC (User generated content) on your site.
